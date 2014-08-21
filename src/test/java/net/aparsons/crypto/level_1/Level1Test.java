@@ -2,8 +2,8 @@ package net.aparsons.crypto.level_1;
 
 import java.util.Arrays;
 import java.util.List;
+import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-import static org.junit.Assert.*;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
@@ -13,8 +13,8 @@ public class Level1Test {
     @Parameterized.Parameters
     public static List<String[]> data() {
         return Arrays.asList(new String[][] { 
-            {"FkclojxqflkprmboefdetxvObpmlkpfsbIldfpqfzp", ""},
-            {"AxqxpzfbkzbObafpClohba", ""}
+            {"FkclojxqflkprmboefdetxvObpmlkpfsbIldfpqfzp", "informationsuperhighwayresponsivelogistics"},
+            {"AxqxpzfbkzbObafpClohba", "datascienceredisforked"}
         });
     }
     
