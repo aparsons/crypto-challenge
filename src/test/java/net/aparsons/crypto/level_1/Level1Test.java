@@ -13,8 +13,11 @@ public class Level1Test {
     @Parameterized.Parameters
     public static List<String[]> data() {
         return Arrays.asList(new String[][] { 
-            {"FkclojxqflkprmboefdetxvObpmlkpfsbIldfpqfzp", "informationsuperhighwayresponsivelogistics"},
-            {"AxqxpzfbkzbObafpClohba", "datascienceredisforked"}
+            {"FkclojxqflkprmboefdetxvObpmlkpfsbIldfpqfzp", "InformationsuperhighwayResponsiveLogistics"},
+            {"AxqxpzfbkzbObafpClohba", "DatascienceRedisForked"},
+            {"DilyxifwxqflkMvqelkPqoxqbdv","GlobalizationPythonStrategy"},
+            {"IldfpqfzpCfybolmqfzObpmlkpfsb", "LogisticsFiberopticResponsive"},
+            {"ExallmTbyildClohba", "HadoopWeblogForked"}
         });
     }
     
